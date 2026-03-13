@@ -5,7 +5,7 @@ const API_URL = process.env.NEXT_PUBLIC_API_URL?.replace(/\/$/, "");
 // bütün siparişleri getir
 const getOrders = async (): GetOrdersResponse => {
   try {
-    const response = await fetch(`${API_URL}/orders`);
+    const response = await fetch(`${API_URL}/orders`, { cache: "no-store" });
 
     if (!response.ok) return [];
 
@@ -20,7 +20,9 @@ const getOrders = async (): GetOrdersResponse => {
 
 const getProducts = async (): GetProductsResponse => {
   try {
-    const response = await fetch(`${API_URL}/products`);
+    const response = await fetch(`${API_URL}/products`, {
+      cache: "no-store",
+    });
 
     if (!response.ok) return [];
 
@@ -34,7 +36,9 @@ const getProducts = async (): GetProductsResponse => {
 };
 
 const getProduct = async (productId: string): Promise<Product> => {
-  const response = await fetch(`${API_URL}/products/${productId}`);
+  const response = await fetch(`${API_URL}/products/${productId}`, {
+    cache: "no-store",
+  });
 
   return response.json();
 };
