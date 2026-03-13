@@ -21,7 +21,7 @@ const Header = () => {
           />
 
           <div>
-            <p className="font-semibold text-black">Furkan Evin</p>
+            <p className="font-semibold text-black">Ozan Demircan</p>
             <p className="text-sm text-zinc-500">Admin</p>
           </div>
         </div>
