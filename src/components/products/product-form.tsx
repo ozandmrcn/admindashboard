@@ -97,7 +97,7 @@ const ProductForm: FC<Props> = ({ product }) => {
             />
           </Field>
 
-          <ImagePreview />
+          <ImagePreview initialValue={product?.image_url} />
 
           {/* Açıklama Inputu*/}
           <Field htmlFor="description" label="Açıklama">

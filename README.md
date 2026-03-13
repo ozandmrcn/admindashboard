@@ -34,12 +34,12 @@ AdminDashboard enables administrators to:
 - **React Toastify** (Notifications)
 - **React Icons** (Icon Sets)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Demo  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Demo
+
 You can view a demo of the project by visiting the following link:  
-[Admin Dashboard Demo](https://grocery-e-comerce.vercel.app/)
+[Admin Dashboard Demo](https://admindashboard-drab.vercel.app/)
 
 ## Preview
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Setup & Installation
 
