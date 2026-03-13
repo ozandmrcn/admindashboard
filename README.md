@@ -41,6 +41,10 @@ You can view a demo of the project by visiting the following link:
 
 ## Preview
 
+<a href="https://ibb.co/fdQGjJVk"><img src="https://i.ibb.co/Mk95Fdyc/1.png" alt="1" border="0" /></a>
+<a href="https://ibb.co/ZpYn85gC"><img src="https://i.ibb.co/v6Q7Ppd8/2.png" alt="2" border="0" /></a>
+<a href="https://ibb.co/vvmYRBq0"><img src="https://i.ibb.co/FqJVCW3R/3.png" alt="3" border="0" /></a>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Setup & Installation
 
 To run the project locally, follow these steps:
